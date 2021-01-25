@@ -12,6 +12,8 @@ p{
 
 .point{
     color:red;
-    list-style:none;
+   
     
 }
+ul{
+    list-style:none;}
