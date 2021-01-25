@@ -5,6 +5,11 @@
     textalign:center;
        
   }
+
+p{
+    size:30px;
+}
+
 .point{
     color:red;
     
