@@ -8,8 +8,8 @@
 .p one,two{
     border-bottom:10px solid;
 }
-.h2 greeting{
-    border-bottom-width: 4px;
+.h2 {
+    border-bottom-width: 4px;}
 img{
     width:200px;
     height:200px;}
