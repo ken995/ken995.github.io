@@ -5,6 +5,9 @@
     textalign:center;
        
   }
+.p {
+    border-bottom:radius,2px,red;}
+
 
 p{
     size:30px;
