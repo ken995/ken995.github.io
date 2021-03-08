@@ -6,9 +6,10 @@
        
   }
 .p one,two{
-    border-bottom:10px solid ;
+    border-bottom:10px solid;
 }
-
+.h2 greeting{
+    border-bottom:10px solid;}
 img{
     width:200px;
     height:200px;}
