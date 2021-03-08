@@ -5,8 +5,9 @@
     textalign:center;
        
   }
-.p {
-    border-bottom:2px solid red;}
+.p one,two{
+    border-bottom:2px solid red;
+}
 
 
 p{
