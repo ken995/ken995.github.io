@@ -5,8 +5,9 @@
     text-align:center;
        
   }
-.p one,two{
+.one,two,three{
     border-bottom:10px solid;
+    font-size:40px
 }
 .h2 {
     border-bottom-width: 4px;}
